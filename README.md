@@ -1,5 +1,3 @@
-#dcffe4, $bg-green-light
-
 <h1 align="center">Hi 👋, I'm Kaustab</h1>
 
 <h3 align="center">When something is important enough, you do it even if the odds are not in your favor.</h3>
