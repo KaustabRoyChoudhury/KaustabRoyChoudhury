@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I'm never satisfied with my perfect work(s).**
 
+<img align="right" alt="GIF" src="https://github.com/KaustabRoyChoudhury/KaustabRoyChoudhury/blob/main/enterprise.gif" width="460" height="400" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/kaustav.roychoudhury.5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png" alt="https://www.facebook.com/kaustav.roychoudhury.5" height="30" width="40" /></a> &nbsp
