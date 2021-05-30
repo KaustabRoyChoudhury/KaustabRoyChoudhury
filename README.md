@@ -1,11 +1,15 @@
 <h1 align="center">
-  Hi 👋, I'm **Kaustab**
+  Hi 👋, I'm Kaustab
 </h1>
 
 <h3 align="center">"When something is important enough, you do it even if the odds are not in your favor".</h3>
 <h3 align="right">~Elon Musk</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align='center'>
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/8603849553?text=Hello%20Kaustab">
@@ -20,7 +24,8 @@
 </p>
 
 <h3 align="left">Self in short 👇</h3>
-- 🔭 I’m currently working on growing my startup **ShoppyBuzz**
+
+- 🔭 I’m currently working on growing my startup ~ShoppyBuzz 
 
 - 🌱 I’m currently learning **Image Processing**
 
