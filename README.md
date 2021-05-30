@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Kaustab
+ Hi 👋, I'm Kaustab
 </h1>
 
 <h3 align="center">"When something is important enough, you do it even if the odds are not in your favor".</h3>
@@ -25,15 +25,15 @@
 
 <h3 align="left">Self in short 👇</h3>
 
-- 🔭 I’m currently working on growing my startup ~ShoppyBuzz 
+- 🔭 I’m currently growing and expanding my startup ~ShoppyBuzz 
 
-- 🌱 I’m currently learning **Image Processing**
+- 🌱 Learning **Image Processing**, **Python** and making product based projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustabRoyChoudhury](https://github.com/KaustabRoyChoudhury)
 
 - 💬 Ask me about **Affiliate Marketing and Public Dealings**
 
-- 📫 How to reach me **kaustab2016@gmail.com**
+- 📫 Can always reach me **kaustab2016@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kaustab-roy-choudhury-559576199/](https://www.linkedin.com/in/kaustab-roy-choudhury-559576199/)
 
