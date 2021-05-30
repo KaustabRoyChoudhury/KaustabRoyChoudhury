@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/kaustav.roychoudhury.5" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s180-rw" alt="https://www.facebook.com/kaustav.roychoudhury.5" height="30" width="40" /></a> &nbsp
-<a href="https://instagram.com/_.krczz._" target="blank"><img align="center" src="https://www.rickcue.com/images/2018/01/31/instagram.png" alt="_.krczz._" height="30" width="40" /></a>
+<a href="https://instagram.com/_.krczz._" target="blank"><img align="center" src="https://i.pinimg.com/originals/63/0b/dd/630bdd67724dd9bceb57ec85e767d8ac.png" alt="_.krczz._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
