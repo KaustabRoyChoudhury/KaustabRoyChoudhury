@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/kaustav.roychoudhury.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kaustav.roychoudhury.5" height="30" width="40" /></a>
-<a href="https://instagram.com/_.krczz._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_.krczz._" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/kaustav.roychoudhury.5" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s180-rw" alt="https://www.facebook.com/kaustav.roychoudhury.5" height="30" width="40" /></a> &nbsp
+<a href="https://instagram.com/_.krczz._" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/c2DcVsBUhJb3UlAGABHwafpuhstHwORpVwWZ0RvWY7NPrgdtT2o4JRhcyO49ehhUNRca=s180-rw" alt="_.krczz._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
