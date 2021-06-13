@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustabRoyChoudhury](https://github.com/KaustabRoyChoudhury)
 
-- 💬 Ask me about **Affiliate Marketing and Public Dealings**
+- 💬 Ask me about **Affiliate Marketing, Public Dealings, Personal Branding...other queries related to Affiliate Marketing**
 
 - 📫 Can always reach me **kaustab2016@gmail.com**
 
@@ -53,7 +53,8 @@
 const Kaustab = {
   Fullname: "Kaustab Roy Choudhury",
   E-mail: "kaustab2016@gmail.com",
-  Skills: [ C(Proficent), Python, HTML, CSS, Java, Javascript ],
+  Skills: [ C(Proficent), Python, HTML, CSS, Java ],
+  Framewrok: [ Flutter ],
   Website: [ Wordpress],
   OS: [Linux(Beginner), Windows, Android]
   Others: [Affiliate Marketer, Entrepreneur ],
