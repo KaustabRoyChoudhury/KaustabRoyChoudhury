@@ -25,13 +25,13 @@
 
 <h3 align="left">Self in short 👇</h3>
 
-- 🔭 I’m currently growing and expanding my startup ~ShoppyBuzz 
+- 🔭 I’m currently growing and expanding my startup. ~ShoppyBuzz 
 
 - 🌱 Learning **Image Processing**, **Python** and making product based projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustabRoyChoudhury](https://github.com/KaustabRoyChoudhury)
 
-- 💬 Ask me about **Affiliate Marketing, Public Dealings, Personal Branding...other queries related to Affiliate Marketing**
+- 💬 Ask me about **Affiliate Marketing, Public Dealings, Personal Branding...other queries related to Affiliate Marketing.**
 
 - 📫 Can always reach me **kaustab2016@gmail.com**
 
